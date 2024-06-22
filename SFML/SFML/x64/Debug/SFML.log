@@ -1,0 +1,42 @@
+﻿  main.cpp
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(135,21): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(135,18): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,31): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,31): warning C4244:         with
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,31): warning C4244:         [
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,31): warning C4244:             T=float
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,31): warning C4244:         ]
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,28): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,28): warning C4244:         with
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,28): warning C4244:         [
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,28): warning C4244:             T=float
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(136,28): warning C4244:         ]
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(144,35): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(144,35): warning C4244:         with
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(144,35): warning C4244:         [
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(144,35): warning C4244:             T=float
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(144,35): warning C4244:         ]
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,32): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,32): warning C4244:         with
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,32): warning C4244:         [
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,32): warning C4244:             T=float
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,32): warning C4244:         ]
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,28): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,28): warning C4244:         with
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,28): warning C4244:         [
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,28): warning C4244:             T=float
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(146,28): warning C4244:         ]
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(147,46): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(166,2): error C2660: 'draw': la función no acepta 3 argumentos
+  D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(121,6):
+  vea la declaración de 'draw'
+  D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(166,2):
+  al hacer coincidir la lista de argumentos '(int, int, int)'
+  
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(200,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(210,18): warning C4244: 'inicializando': conversión de 'sf::Int64' a 'float'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(211,18): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(213,11): warning C4244: '+=': conversión de 'float' a 'int'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(216,12): warning C4244: '-=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(281,16): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Gabriel\UCSP\AED\Programing tasks 2\SFML\main.cpp(282,22): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos

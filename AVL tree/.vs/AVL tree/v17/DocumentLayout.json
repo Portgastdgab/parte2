@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Gabriel\\UCSP\\AED\\Programing tasks 2\\AVL tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB647886-FECF-4BD8-A752-3C81A1292F3C}|AVL tree\\AVL tree.vcxproj|D:\\Gabriel\\UCSP\\AED\\Programing tasks 2\\AVL tree\\AVL tree\\avl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CB647886-FECF-4BD8-A752-3C81A1292F3C}|AVL tree\\AVL tree.vcxproj|solutionrelative:AVL tree\\avl.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "avl.cpp",
+              "DocumentMoniker": "D:\\Gabriel\\UCSP\\AED\\Programing tasks 2\\AVL tree\\AVL tree\\avl.cpp",
+              "RelativeDocumentMoniker": "AVL tree\\avl.cpp",
+              "ToolTip": "D:\\Gabriel\\UCSP\\AED\\Programing tasks 2\\AVL tree\\AVL tree\\avl.cpp",
+              "RelativeToolTip": "AVL tree\\avl.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-21T19:34:33.371Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
